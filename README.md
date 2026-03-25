@@ -1,4 +1,5 @@
-# SocialSparkST10476655
+# SocialSpark<img width="322" height="89" alt="Tittle" src="https://github.com/user-attachments/assets/50afe82d-7d63-4493-91f0-bf8800a3050a" />
+ST10476655
 SocialSpark is a Kotlin-based Android app that offers straightforward, time-based social recommendations to assist users in maintaining social connections during busy days.
 App Features
 
