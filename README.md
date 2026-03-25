@@ -10,12 +10,13 @@ Users type in a time-of-day keyword:
 - "afternoon"
 - "dinner"
 - "night"
+  
+<img width="323" height="75" alt="Suggestion" src="https://github.com/user-attachments/assets/adae3d59-d874-4447-926f-05e294b8eb9c" />
 
 SocialSpark Suggestions
 
 The app displays a suggestion based on the keyword entered (e.g. “Send a good morning text to a family member”).
 
-<img width="323" height="75" alt="Suggestion" src="https://github.com/user-attachments/assets/5e392383-20ab-4b4f-9338-ee326f90a3fb" /> 
 <img width="318" height="37" alt="sugg button" src="https://github.com/user-attachments/assets/8be134fa-1069-4a01-ac32-0ee807ee7fc8" />
 
 Reset Button
